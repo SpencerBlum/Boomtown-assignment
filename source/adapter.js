@@ -12,7 +12,7 @@ class Adapter {
         .then(resp => resp.json())
     }
 
-
+    //Fetch api links within top level api
     fetchFoundLinks(apiLink){
         return fetch(apiLink)
     }
