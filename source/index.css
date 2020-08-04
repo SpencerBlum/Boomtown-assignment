@@ -1,0 +1,28 @@
+.button-success { 
+    background-color: rgb(24, 179, 24);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+.button-success:hover { 
+    background-color: rgb(98, 182, 98);
+}
+
+.button-failure { 
+    background-color: rgb(209, 85, 85);
+    color: white;
+    border-radius: 5px;
+    margin: 5px;
+    border: none;
+}
+
+.button-failure:hover { 
+    background-color: rgb(204, 116, 116);
+}
+
+
+ul {
+    list-style-type: none;
+  }
